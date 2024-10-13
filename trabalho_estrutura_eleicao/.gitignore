@@ -1,0 +1,16 @@
+# Ignorar arquivos de compilação
+*.o
+*.exe
+*.out
+
+# Ignorar pastas de saída
+/bin/
+/obj/
+
+# Ignorar arquivos temporários do Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Ignorar arquivos de sistema
+Thumbs.db   # Para Windows
